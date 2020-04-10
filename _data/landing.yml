@@ -12,17 +12,17 @@
   tpl: career.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: Información Importante
-  tpl: skills.html
-  css: team
-
 - id: projects
   i18n: nav.projects
-  name: Contamos contigo!
+  name: Importante
   tpl: projects.html
   css: project
+
+  - id: skills
+  i18n: nav.skills
+  name: Imprescindible
+  tpl: skills.html
+  css: team
 
 - id: blog
   i18n: nav.blog
