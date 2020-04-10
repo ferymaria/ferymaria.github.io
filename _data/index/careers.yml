@@ -13,7 +13,6 @@
     detail: Pamplona
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
 
 - name:
     detail: Empezamos a Salir!
@@ -25,7 +24,7 @@
     detail: 23 de junio de 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Pamplona
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -37,10 +36,10 @@
     detail: Y se nos hizo muuuyyyy larga la espera... :)
     i18n: company_b_desc
   date:
-    detail: XX de noviembre de 2020
+    detail: noviembre de 2020
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: En Pamplona! :P
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -54,7 +53,8 @@
     detail: 11 de octubre de 2020
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: ¿Dónde va a ser? ;)
     i18n: company_b_job
   icon: fa-plus-square
+  present: true
 
